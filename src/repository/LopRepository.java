@@ -5,7 +5,7 @@
 package repository;
 
 import java.util.List;
-import model.Lop;
+import entity.Lop;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

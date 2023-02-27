@@ -5,7 +5,7 @@
 package service;
 
 import java.util.List;
-import model.Lop;
+import entity.Lop;
 
 /**
  *

@@ -5,7 +5,7 @@
 package service.impl;
 
 import java.util.List;
-import model.Lop;
+import entity.Lop;
 import repository.LopRepository;
 import service.LopService;
 

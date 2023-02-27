@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-import model.Lop;
+import entity.Lop;
 import service.LopService;
 import service.impl.LopServiceImpl;
 
